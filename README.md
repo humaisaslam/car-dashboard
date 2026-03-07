@@ -1,6 +1,6 @@
 ---
 
-# 🚗 Vehicle detection weights for yolov11
+# 🚗 Vehicle detection weights for yolov8
 
 <div align="center">
 
@@ -72,6 +72,7 @@ python app.py
 **Developed by Humais Aslam Under Olive Digital PVT Ltd**)
 
 </div>
+
 
 
 
